@@ -67,5 +67,4 @@ To setup that we are required to have a special file called <span style="color:y
     //...
 }
 ```
-
-<br/>
+Enjoy 😍!
