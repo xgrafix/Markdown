@@ -1,11 +1,7 @@
 ## Introduction
  It is nice to use the debugger of vscode direclty to check with vscode rather than the browser 👨‍💻.
 
-<br/>
-
 To setup that we are required to have a special file called <span style="color:yellow">launch.json</span>
-
-<br/>
 
  ## Setup
 1- Install Debugger for Chrome Extension.
