@@ -40,7 +40,17 @@ To setup that we are required to have a special file called <span style="color:y
 1- To run the debugger make sure you are opening the workspace or the project under /client directory.
 > e.g) <br/> ```code /var/www/html/bga/client```
 
-2- Run first the 
+2- Run first the application.
+> ```ng serve``` or ```ng s```
+
+3- Press **(Ctrl + Shift + D)** to show the debugger menu.
+
+4- Press on the gree triangle icon ▶️.
+
+5- The debugger will open windowed chrome browser.
+
+6- You can use any breakdown point within the application.
+<br/>
 
 ## Note
 
@@ -56,11 +66,10 @@ To setup that we are required to have a special file called <span style="color:y
 
 ``` json
 {
-    ...
+    //...
     "url": "http://localhost:4200",
-    ...
+    //...
 }
 ```
 
 <br/>
-Enjoy 😍!
